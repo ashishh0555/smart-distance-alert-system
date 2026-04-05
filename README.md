@@ -74,7 +74,7 @@ It provides **multi-level feedback** through LEDs, buzzer, and LCD display with 
 
 ## 🎥 Demo
 
-👉 [Watch Video](PASTE_YOUTUBE_LINK_HERE)
+👉 [Watch Video](https://www.youtube.com/shorts/i2NPhcdhLiw)
 
 ---
 
